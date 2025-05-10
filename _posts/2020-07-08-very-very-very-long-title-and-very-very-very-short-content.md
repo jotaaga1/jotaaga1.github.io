@@ -1,5 +1,4 @@
 ---
-layout: post
+title: Documento
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.
+[Documento]([trabp1ceub (2).pdf](https://github.com/user-attachments/files/20143174/trabp1ceub.2.pdf)

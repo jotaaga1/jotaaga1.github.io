@@ -32,9 +32,8 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Portfolio
-    title_misc_list: Details
-    title_blog: Blog
-    title_site_apresentacao: Site da apresentação
+    title_blog: Projetos
+   
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

@@ -1,5 +1,5 @@
 ---
 title: Site feito pelo Google Sites
-date: 
+date: ---
 ---
 [Site](https://sites.google.com/view/jhportfoliohub/)
